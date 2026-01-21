@@ -23,5 +23,5 @@ Responsive layout, modular structure with reusable JavaScript components, catego
 Type & Role: Team project — Team Lead / Developer. Coordinated team workflow, contributed to frontend coding, ensured clean version control, and managed the Git branching strategy.
 Skills: HTML5 · Responsive Web Design · Front-End Development · CSS3 · JavaScript · Vite Build Tool · Team Leadership · Code Review
 ## Contact
-- [LinkedIn]([https://www.linkedin.com/in/anna-buievska/](https://www.linkedin.com/in/anna-buievska-230346382/))  
+- [LinkedIn](https://www.linkedin.com/in/anna-buievska/](https://www.linkedin.com/in/anna-buievska-230346382/ )
 - [Email](mailto:anna111239@gmail.com)
